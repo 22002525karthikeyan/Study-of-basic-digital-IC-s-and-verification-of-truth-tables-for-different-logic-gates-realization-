@@ -80,6 +80,7 @@ endmodule
 ```
 
 Output:
+
 ![](BLG1.png)
 ![](BLG2.png)
 
