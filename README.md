@@ -2,7 +2,7 @@
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+Equipments Required:r
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 Theory
@@ -82,6 +82,7 @@ endmodule
 Output:
 
 ![](BLG1.png)
+
 ![](BLG2.png)
 
 
