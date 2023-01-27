@@ -59,9 +59,9 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
 
-Developed by: Bharath.k
+Developed by: R.KARTHIKEYAN
 
-RegisterNumber:  22009080
+RegisterNumber:  22002525
 ```
 module lg(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
 input a,b;
@@ -79,11 +79,18 @@ endmodule
 
 ```
 
-Output:
+#### Output:
+RTL
 
 ![](BLG1.png)
 
+Timing Diagram
+
 ![](BLG2.png)
+
+Truth Table
+![](TTL.png)
+
 
 
 Result:
